@@ -7,3 +7,5 @@ argument:
 - bspwm
 - polybar
 - alacritty
+
+will finish this later on
