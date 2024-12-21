@@ -1,3 +1,3 @@
 #!/usr/bin/zsh
 
-ls
+cd dotfiles
