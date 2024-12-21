@@ -1,7 +1,7 @@
 #!/usr/bin/zsh
 
 cd dotfiles
-mv bspwm ~/.config/bspwm
-mv polybar ~/.config/polybar
-mv hypr ~/.config/hypr
-mv i3 ~/.config/hypr
+cp -r bspwm ~/.config/bspwm
+cp -r polybar ~/.config/polybar
+cp -r hypr ~/.config/hypr
+cp -r i3 ~/.config/hypr
