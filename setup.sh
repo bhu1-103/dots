@@ -3,6 +3,7 @@
 if pacman -Q bspwm &>/dev/null; then
     echo "bspwm found"
     cp -r dotfiles/bspwm ~/.config/bspwm
+    cp -r dotfiles/sxhkd ~/.config/sxhkd
 fi
 
 if pacman -Q hyprland-git &>/dev/null; then
