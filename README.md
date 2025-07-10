@@ -9,3 +9,5 @@ argument:
 - alacritty
 
 will finish this later on
+
+also, touchegg config
