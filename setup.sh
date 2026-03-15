@@ -21,6 +21,6 @@ if pacman -Q polybar &>/dev/null; then
     cp -r dotfiles/polybar ~/.config/polybar
 fi
 
-echo "alias guitarix='PIPEWIRE_LATENCY=32/48000 pw-jack guitarix'" >> ~/.zshrc
+echo "alias guitarix='PIPEWIRE_LATENCY=64/48000 pw-jack guitarix'" >> ~/.zshrc
 
 echo "rice done"
